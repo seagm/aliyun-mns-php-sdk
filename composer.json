@@ -1,9 +1,9 @@
 {
-    "name": "ranh/aliyun-mns-php-sdk",
+    "name": "seagm/aliyun-mns-php-sdk",
     "authors": [
         {
-            "name": "大豆",
-            "email": "ranh@qq.com"
+            "name": "ranh",
+            "email": "ranh@seagm.com"
         }
     ],
     "require": {}
