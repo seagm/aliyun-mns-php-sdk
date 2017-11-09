@@ -1,0 +1,10 @@
+{
+    "name": "ranh/aliyun-mns-php-sdk",
+    "authors": [
+        {
+            "name": "大豆",
+            "email": "ranh@qq.com"
+        }
+    ],
+    "require": {}
+}
